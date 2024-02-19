@@ -37,7 +37,7 @@ This ATAC-seq processing procedure is composed of 14 steps:
 | S9       | Fix Mates                    |
 | S10      | BAM to BEDPE                 |
 | S11      | Remove Tn5                   |
-| S12      | BEDPE "Minimal   Conversion" |
+| S12      | BEDPE "Minimal Conversion"   |
 | S13      | MACS2                        |
 | S14      | Peak Quantification          |
 | S15      | BAM files merging            |
